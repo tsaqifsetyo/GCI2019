@@ -1,1 +1,1 @@
-first repository
+My First Repository Hello SugarLabs
